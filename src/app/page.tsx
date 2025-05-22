@@ -61,7 +61,7 @@ export default function Home() {
               </div>
               <div className="bg-gray-50 p-6 rounded-lg">
                 <h2 className="text-xl font-bold mb-2 text-gray-900">11. Respect Hyperfocus</h2>
-                <p className="text-gray-700">Don't interrupt someone's hyperfocus unless you have a critical blocker, Hyperfocus is signaled by wearing headsets.</p>
+                <p className="text-gray-700">Don&apos;t interrupt someone&apos;s hyperfocus unless you have a critical blocker, Hyperfocus is signaled by wearing headsets.</p>
               </div>
               <div className="bg-gray-50 p-6 rounded-lg">
                 <h2 className="text-xl font-bold mb-2 text-gray-900">12. Daily Exercise</h2>
